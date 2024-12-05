@@ -97,3 +97,8 @@ footer {
 footer p {
     font-size: 14px;
 }
+
+.spotify-playlist {
+    margin: 20px auto;
+    text-align: center;
+}
